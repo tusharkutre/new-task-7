@@ -1,0 +1,23 @@
+class ConstructorClass(){
+
+public water(){
+	System.out.println("hey im water");
+}
+
+public flour(){
+	System.out.println("hey im flour");
+}
+
+public oil(){
+	System.out.println("hey im oil");
+}
+
+public bowl(){
+	System.out.println("hey im bowl");
+}
+
+public pan(){
+	System.out.println("hey im pan");
+}
+
+}
